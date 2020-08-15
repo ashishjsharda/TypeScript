@@ -1,0 +1,15 @@
+let a: number;
+let b: string;
+let c: any;
+c = 50;
+c = true;
+console.log("====================================");
+console.log(c);
+console.log("====================================");
+let d: any[] = [10, "true", "hello"];
+console.log(d);
+enum color {
+  Red = 0,
+  Blue = 1,
+}
+console.log(color.Red);
