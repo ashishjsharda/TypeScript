@@ -1,0 +1,3 @@
+let m ="test";
+let b=m.endsWith('t');
+console.log(b);
